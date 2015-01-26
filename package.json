@@ -1,0 +1,20 @@
+{
+	"name": "axixe-logo-spinner",
+	"version": "1.0.0",
+	"description": "An extremely efficient webGL animation",
+	"keywords":[],
+	"homepage": "https://github.com/JMoli/axixe",
+	"bugs":{
+		"url":"https://github.com/JMoli/axixe/issues"
+	},
+	"license": "GPL-2.0",
+	"authoer": "Justin Molitor",
+	"main": "server.js",
+	"repository": {
+		"type":"git",
+		"url": "https://github.com/JMoli/axixe"
+	},
+	"dependencies":{
+		"express": "*"
+	}
+}
